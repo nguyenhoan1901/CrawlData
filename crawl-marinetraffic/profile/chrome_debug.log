@@ -1,0 +1,25 @@
+[14920:9992:0506/014623.888:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 112.0.5615.139 (not a warning)
+[14920:9992:0506/014623.967:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[14920:9992:0506/014623.967:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[14920:9992:0506/014636.931:INFO:CONSOLE(1)] "Uncaught (in promise) ChunkLoadError: Loading chunk 8891 failed.
+(error: https://www.marinetraffic.com/js/1170c825cb0403e71ad0.mtapp.524.dfb077.js)", source: https://www.marinetraffic.com/js/b4018631aac34222bc0b.mtapp.524.dfb077.js (1)
+[14920:9992:0506/014638.587:INFO:CONSOLE(2)] "Uncaught ChunkLoadError: Loading chunk 58497 failed.
+(error: https://www.marinetraffic.com/js/b4adf2d751ac111ee207.mtapp.524.dfb077.js)", source: https://www.marinetraffic.com/js/20e772853ce2328ddae6.mtapp.524.dfb077.js (2)
+[14920:9992:0506/014638.639:INFO:CONSOLE(35)] "Uncaught TypeError: Cannot read properties of null (reading 'hasLayer')", source: https://www.marinetraffic.com/ (35)
+[14920:12096:0506/014639.578:WARNING:page_discarding_helper.cc(130)] Urgently discarding multiple pages with target (kb): 0
+[14920:9992:0506/014646.528:ERROR:device_event_log_impl.cc(222)] [01:46:46.528] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[14920:12096:0506/014649.093:WARNING:page_discarding_helper.cc(130)] Urgently discarding multiple pages with target (kb): 0
+[14920:5188:0506/014654.094:WARNING:page_discarding_helper.cc(130)] Urgently discarding multiple pages with target (kb): 0
+[14920:9992:0506/014659.235:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[14920:9992:0506/014700.563:INFO:CONSOLE(3)] "Request for the Private Access Token challenge.", source:  (3)
+[14920:9992:0506/014700.563:INFO:CONSOLE(3)] "The next request for the Private Access Token challenge may return a 401 and show a warning in console.", source:  (3)
+[14920:9992:0506/014700.623:INFO:CONSOLE(3)] "console.groupEnd", source:  (3)
+[14920:9992:0506/014702.262:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[14920:9992:0506/014702.841:INFO:CONSOLE(3)] "Request for the Private Access Token challenge.", source:  (3)
+[14920:9992:0506/014702.841:INFO:CONSOLE(3)] "The next request for the Private Access Token challenge may return a 401 and show a warning in console.", source:  (3)
+[14920:9992:0506/014702.896:INFO:CONSOLE(3)] "console.groupEnd", source:  (3)
+[14920:9992:0506/014705.714:INFO:CONSOLE(1)] "[Cloudflare Turnstile] undefined_error.", source: https://challenges.cloudflare.com/turnstile/v0/g/b5e45436/api.js?onload=_cf_chl_turnstile_l&render=explicit (1)
+[14920:9992:0506/014707.912:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[14920:9992:0506/014716.997:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 1, file size:0
+[14920:9992:0506/014716.997:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 1, file size:0
+[14920:9992:0506/014718.715:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
